@@ -6,23 +6,25 @@
 
 ## Instituto Federal Catarinense - Reitoria
 
-## EDITAL N° 079/CAMDP/IFC/2024, de 12 de Agosto de 2024
+## EDITAL N° 42/CAMDP/IFC/2024, de 03 de ABRIL de 2024
 
 ## PROCESSO SELETIVO SIMPLIFICADO
 
-A Pró-Reitora de Desenvolvimento, Inclusão, Diversidade e Assistência à Pessoa do Instituto Federal de Educação, Ciência e Tecnologia Catarinense - IFC, no uso de suas atribuições legais e da competência que foi subdelegada pela Portaria nº 334/2024 e nos termos da Lei n° 8.745 de 09/12/1993, e da Resolução nº 048-CONSUPER/2014 , torna pública a abertura de inscrições com vista ao Processo Seletivo Simplificado para contratação de Professor Substituto , por tempo determinado, para atender as demandas do Instituto Federal Catarinense -Campus Araquari.
+A Pró-Reitora de Desenvolvimento, Inclusão, Diversidade e Assistência à Pessoa do Instituto Federal de Educação, Ciência e Tecnologia Catarinense - IFC, no uso de suas atribuições legais e da competência que foi subdelegada pela Portaria nº 334/2024 e nos termos da Lei n° 8.745 de 09/12/1993, e da Resolução nº 048-CONSUPER/2014 , torna pública a abertura de inscrições com vista ao Processo Seletivo Simplificado para contratação de Professor Substituto , por tempo determinado, para atender as demandas do Instituto Federal Catarinense - Campus Araquari.
 
 ## 1 DAS ESPECIFICAÇÕES DA VAGA E DA REMUNERAÇÃO
 
-## 1.1 - Das especificações da vaga:
+- 1.1 - Das especificações da vaga:
 
-| ÁREA DE CONHECIMENT O        | REGIME DE TRABALH O   |   VAG AS | REQUISITOS MÍNIMOS EXIGIDOS                                                                                                                                   | DISCIPLINAS A MINISTRAR                                                                                                                                                                                |
-|------------------------------|-----------------------|----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| INFORMÁTICA - Banco de Dados | 40 horas              |        1 | Graduação em: Administração de empresas com ênfase em análise de sistemas de informação OU Análise e desenvolvimento de sistemas OU Ciências da Computação OU | Disciplinas possíveis a serem ministradas: - Banco de Dados; - Data Warehouse - Programação; - Desenvolvimento Web; - Desenvolvimento para dispositivos móveis; - Outras disciplinas afins, conforme a |
+| ÁREA DE CONHECIMENT O   | REGIME DE TRABALH O   |   VAG AS | REQUISITOS MÍNIMOS EXIGIDOS                                    | DISCIPLINAS A MINISTRAR                                                                                      |
+|-------------------------|-----------------------|----------|----------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|
+| Sociologia              | 40 horas              |        1 | Licenciatura em Ciências Sociais ou Licenciatura em Sociologia | Sociologia nos cursos técnicos integrados, Sociologia da Educação nos cursos superiores e disciplinas afins. |
+
+Obs.: Poderão ser distribuídas outras disciplinas relacionadas à área.
+
+- 1.2 Independentemente da existência de vagas reservadas para pretos ou pardos neste edital, fica assegurada a inscrição de pessoas autodeclaradas negras na condição de cotistas.
 
 <!-- image -->
-
-Rua das Missões, 100 - Ponta Aguda Blumenau/SC - CEP: 89.051-000 (47) 3331-7800 / ifc@ifc.edu.br
 
 <!-- image -->
 
@@ -30,26 +32,11 @@ Rua das Missões, 100 - Ponta Aguda Blumenau/SC - CEP: 89.051-000 (47) 3331-7800
 
 ## Ministério da Educação Instituto Federal Catarinense - Reitoria
 
-| Engenharia da Computação OU Engenharia de Software OU Informática OU Matemática computacional OU Matemática com ênfase em ciência da computação OU Processamento de   | instituição.   |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------|
-| Dados OU Redes de Computadores OU Sistemas de Informação OU Sistemas para internet OU Tecnologia da Informação.                                                       | instituição.   |
-
-Obs.: Poderão ser distribuídas outras disciplinas relacionadas à área.
-
-- 1.2 Independentemente da existência de vagas reservadas para pretos ou pardos neste edital, fica assegurada a inscrição de pessoas autodeclaradas negras na condição de cotistas.
 - 1.2.1 O candidato inscrito na condição de cotista deverá, obrigatoriamente, participar do procedimento de heteroidentificação, conforme estabelecido no item 2.12 e seus subitens.
 
 ## 1.3 - Da Remuneração:
 
 - O contratado perceberá remuneração correspondente ao Nível 01 da Classe DI, da Carreira do Magistério do Ensino Básico, Técnico e Tecnológico, acrescida da Retribuição por titulação de acordo com a titulação apresentada no ato da contratação, salvaguardando, quando necessário, o valor do Piso Salarial Nacional dos Profissionais do Magistério da Educação Básica Pública, conforme demonstrativo abaixo:
-
-<!-- image -->
-
-<!-- image -->
-
-## Secretaria de Educação Profissional e Tecnológica
-
-## Ministério da Educação Instituto Federal Catarinense - Reitoria
 
 | 40 HORAS SEMANAIS   | 40 HORAS SEMANAIS   |
 |---------------------|---------------------|
@@ -63,21 +50,21 @@ Obs.: Poderão ser distribuídas outras disciplinas relacionadas à área.
 
 - 2.1 - Período de Inscrições será conforme o cronograma no Anexo I deste Edital. Caso não haja candidatos inscritos no período especificado, o prazo de inscrição ficará automaticamente prorrogado por igual período, iniciado em dia útil.
 - 2.2 - A taxa de inscrição é de R$20,00 (vinte reais).
-- 2.3 - A inscrição será efetuada na Coordenação de Gestão de Pessoas do Campus xxxxx (via internet), devendo ser enviado e-mail, preferencialmente com arquivo único em formato PDF, contendo os documentos, em ordem, relacionados no item 2.4 deste edital. O arquivo único em PDF deverá ter no máximo 10 Megabytes, dessa forma, se o tamanho do arquivo único exceder ao máximo, poderá ser enviado mais de um arquivo descrevendo a ordem (Ex. Parte 1, Parte 2…).
-
-| CAMPUS         | E-MAIL PARA INSCRIÇÃO   |
-|----------------|-------------------------|
-| IFC - Araquari | cgp.araquari@ifc.edu.br |
+- 2.3 -A inscrição será efetuada na Coordenação de Gestão de Pessoas do Campus
 
 <!-- image -->
-
-Rua das Missões, 100 - Ponta Aguda Blumenau/SC - CEP: 89.051-000 (47) 3331-7800 / ifc@ifc.edu.br
 
 <!-- image -->
 
 ## Secretaria de Educação Profissional e Tecnológica
 
 ## Ministério da Educação Instituto Federal Catarinense - Reitoria
+
+Araquari (via internet), devendo ser enviado e-mail, preferencialmente com arquivo único em formato PDF, contendo os documentos, em ordem, relacionados no item 2.4 deste edital. O arquivo único em PDF deverá ter no máximo 10 Megabytes, dessa forma, se o tamanho do arquivo único exceder ao máximo, poderá ser enviado mais de um arquivo descrevendo a ordem (Ex. Parte 1, Parte 2…).
+
+| CAMPUS         | E-MAIL PARA INSCRIÇÃO   |
+|----------------|-------------------------|
+| IFC - Araquari | cgp.araquari@ifc.edu.br |
 
 - 2.4 - São requisitos para a inscrição:
 - a) cópia digitalizada da ficha de inscrição preenchida, disponível no anexo II desse edital;
@@ -86,9 +73,6 @@ Rua das Missões, 100 - Ponta Aguda Blumenau/SC - CEP: 89.051-000 (47) 3331-7800
 - d) cópia digitalizada do CPF;
 - e) cópia digitalizada do diploma(s) de escolaridade(s) exigido(s) ou declaração da Universidade onde conste que o candidato concluiu todos os requisitos para obtenção do título, estando somente no aguardo da confecção do Diploma, devidamente registrado no órgão competente;
 - f) cópia digitalizada do Currículo Lattes atualizada, e documentos comprobatórios da experiência docente e profissional e demais documentos passíveis de pontuação;
-- g) cópia digitalizada do comprovante de cumprimento das obrigações eleitorais, que pode ser obtida no endereço eletrônico do Tribunal Superior Eleitoral: www.tse.jus.br/;
-- h) cópia digitalizada do certificado de cumprimento das obrigações militares, no caso de candidato do sexo masculino;
-- i) cópia digitalizada do comprovante de pagamento taxa de inscrição no valor de R$20,00 (vinte reais). A Guia de Recolhimento da União (GRU) para pagamento da taxa de inscrição deverá ser obtida pela internet no seguinte endereço
 
 <!-- image -->
 
@@ -98,8 +82,11 @@ Rua das Missões, 100 - Ponta Aguda Blumenau/SC - CEP: 89.051-000 (47) 3331-7800
 
 ## Ministério da Educação Instituto Federal Catarinense - Reitoria
 
-https://pagtesouro.tesouro.gov.br/portal-gru/#/emissao-gru. A GRU deverá ser preenchida com os dados abaixo:
+g) cópia digitalizada do comprovante de cumprimento das obrigações eleitorais, que pode ser obtida no endereço eletrônico do Tribunal Superior Eleitoral: www.tse.jus.br/;
 
+h) cópia digitalizada do certificado de cumprimento das obrigações militares, no caso de candidato do sexo masculino;
+
+- i) cópia digitalizada do comprovante de pagamento taxa de inscrição no valor de R$20,00 (vinte reais). A Guia de Recolhimento da União (GRU) para pagamento da taxa de inscrição deverá ser obtida pela internet no seguinte endereço https://pagtesouro.tesouro.gov.br/portal-gru/#/emissao-gru. A GRU deverá ser preenchida com os dados abaixo:
 - -Unidade Gestora (UG): 158125 -INST. FED. DE EDUC., CIENC. E TEC. CATARINENSE
 - -Gestão: 26422 - INST. FED. DE EDUC., CIENC. E TEC. CATARINENSE
 - -Código de Recolhimento: 28883-7 -TAXA DE INSCRIÇÃO EM CONCURSO PÚBLICO
@@ -110,130 +97,9 @@ https://pagtesouro.tesouro.gov.br/portal-gru/#/emissao-gru. A GRU deverá ser pr
 - - (=) Valor Principal: 20,00
 - - (=) Valor Total : 20,00
 - 2.5 - O valor pago não será devolvido, exceto quando da anulação do processo seletivo.
-- 2.6 -Os Candidatos Estrangeiros deverão comprovar no ato da inscrição o Visto Permanente ou temporário que o habilite a trabalhar no território nacional, de acordo com a legislação vigente.
-- 2.7 - Não serão aceitas inscrições por correspondência ou fax.
-- 2.8 - O IFC não se responsabiliza por solicitações de inscrição via Internet não recebida por motivos de ordem técnica dos computadores, falhas de comunicação, congestionamento das linhas de comunicação, bem como outros fatores de ordem técnica que impossibilitem a transferência de dados.
+- 2.6 -Os Candidatos Estrangeiros deverão comprovar no ato da inscrição o Visto Permanente, de acordo com a legislação vigente.
 
 <!-- image -->
-
-<!-- image -->
-
-## Secretaria de Educação Profissional e Tecnológica
-
-## Ministério da Educação Instituto Federal Catarinense - Reitoria
-
-- 2.9 - Encerradas as inscrições, a Comissão Avaliadora do Campus apreciará e publicará na home page do Campus https://araquari.ifc.edu.br/ a lista das inscrições homologadas.
-- 2.10 -A prova didática será presencial. Todavia, caso venham a ser suspensas as atividades presenciais do Instituto Federal Catarinense, por motivo de força maior, a prova didática poderá ocorrer de forma on-line. Caso seja adotada esta modalidade, as novas regras serão definidas e publicadas na página do edital no site do IFC.
-- 2.10.1 Ao se inscrever no presente Edital o candidato fica ciente de que em caso de alteração na modalidade de prova para on-line, deverá dispor de computador com acesso à internet, câmera e microfone.
-- 2.11 A inscrição do candidato implicará conhecimento e aceitação tácita das condições estabelecidas no presente edital, da lei 8.745 de 09.12.1993, bem como das instruções específicas para o cargo, das quais não poderá alegar desconhecimento.
-
-## 2.12 Da inscrição dos candidatos autodeclarados negros(pretos ou pardos) na condição de cotistas.
-
-- 2.12.1 Será constituída comissão específica para realização do procedimento de heteroidentificação dos candidatos inscritos na condição de cotistas autodeclarados pretos ou pardos.
-- 2.12.2 O procedimento de heteroidentificação avaliará as características fenotípicas do candidato e não a sua ancestralidade.
-- 2.12.3 A comissão de heteroidentificação verificará se o fenótipo(aspectos físicos) do candidato o caracterizam como pertencente ao grupo racial negro (preto ou pardo).
-
-<!-- image -->
-
-<!-- image -->
-
-## Secretaria de Educação Profissional e Tecnológica
-
-## Ministério da Educação Instituto Federal Catarinense - Reitoria
-
-- 2.12.4 As orientações para realização do procedimento de heteroidentificação estarão contidas em convocação a ser publicada conforme as datas do cronograma deste edital.
-- 2.12.5 O procedimento de heteroidentificação será realizado por meio de videoconferência, sendo de responsabilidade do candidato dispor dos recursos tecnológicos(computador ou celular, internet, webcam) para participação no procedimento.
-- 2.12.6 O candidato(a) convocado que não realizar o procedimento de heteroidentificação terá sua autodeclaração étnico-racial indeferida. O candidato não será eliminado do processo e continuará concorrendo pela ampla concorrência.
-- 2.12.7 Caberá recurso ao candidato cuja autodeclaração étnico-racial seja indeferida. Não caberá recurso quando o indeferimento ocorrer conforme previsto no item 2.12.6.
-
-## 3 - DA COMISSÃO AVALIADORA
-
-- 3.1 - O processo seletivo será conduzido por Comissão Avaliadora composta por 2 (dois) professores vinculados à área do Conhecimento objeto da Seleção Pública e 1 (um) Pedagogo ou 1 (um) Técnico em Assuntos Educacionais, lotados no IFC Campus Araquari, designados por portaria do Diretor-Geral do Campus, sendo um deles nomeado como presidente da referida comissão.
-
-## 4 - DA SELEÇÃO
-
-- 4.1 - O processo seletivo simplificado será realizado em 02 (duas) etapas, constituídas de:
-- a) Prova Didática
-- b) Prova de Títulos (Análise do Currículo);
-
-<!-- image -->
-
-<!-- image -->
-
-## Secretaria de Educação Profissional e Tecnológica
-
-## Ministério da Educação Instituto Federal Catarinense - Reitoria
-
-## 5 - DA PROVA DIDÁTICA
-
-- 5.1 - A Prova Didática versará sobre um ponto sorteado pela Comissão Avaliadora do processo, conforme cronograma do Anexo I, dentre os temas abaixo, relacionados a área deste processo seletivo:
-- 1. Projeto de Banco de Dados e Modelagem
-- 2. Formas Normais
-- 3. Linguagem de Consulta de Banco de Dados (SQL)
-- 4. Implementação de Bases de Dados Relacionais
-- 5. Classificação de Data Warehouse e Data Marts
-- 6. Ciclo de Vida do Data Warehouse
-- 7. Ferramentas para Data Warehouse
-- 8. Projeto de Data Warehouse
-- 9. Programaçao Estruturada (representação de dados, operadores, estruturas de controle e funções)
-- 10. Linguagem de Tratamento de Dados Front-End (Javascript)
-- 11. Framework Web para Desenvolvimento Front-End (Vue.js)
-- 12. Padrões de Desenvolvimento Front-End
-- 13. Integração Front-End e Back-End
-- 14. Tecnologias de Desenvolvimento Web do lado do Servidor (Django).
-- 5.2 - O horário das provas didáticas, bem como a ordem de apresentação dos candidatos serão sorteados junto com o ponto.
-- 5.3 -A Prova Didática será realizada em sessão restrita à Comissão Avaliadora, e consistirá de uma aula com duração de 20 (vinte) a 25 (vinte cinco) minutos. O
-
-<!-- image -->
-
-<!-- image -->
-
-## Secretaria de Educação Profissional e Tecnológica
-
-## Ministério da Educação Instituto Federal Catarinense - Reitoria
-
-candidato deverá chegar com antecedência ao local da prova didática 15 (quinze) minutos antes do horário previsto, conforme o sorteio realizado anteriormente.
-
-- 5.4 -Os critérios para o julgamento da prova didática deverão tomar por base o domínio na área de conhecimento e a eficiência no processo de ensino-aprendizagem, segundo os critérios constantes no anexo III.
-- 5.5 -Serão convocados a participar da Prova Didática todos os candidatos com inscrição deferida.
-- 5.6 -Os candidatos, ao se apresentarem para a prova didática, no local e horário estabelecidos no cronograma do Anexo I, deverão entregar à Comissão Avaliadora, no início da prova didática, um plano de aula em 03 (três) vias, devidamente assinadas, não sendo disponibilizado nenhum modelo de plano de aula.
-- 5.7 - À Prova Didática serão atribuídos os pontos, conforme o formulário constante no anexo III deste edital, sendo a nota desta prova expressa com 2 (duas) casas decimais, com intervalo de 0,25 (zero vírgula vinte cinco). A avaliação deverá ser realizada individualmente por cada membro da comissão avaliadora, utilizando-se ao final a média das três avaliações para obtenção na pontuação final desta prova.
-- 5.8 - O IFC disponibilizará somente quadro branco e caneta para quadro branco para realização da prova didática.
-- 5.9 -A prova didática será realizada de forma PRESENCIAL, porém, com a possibilidade de sua alteração para realização de forma on-line, somente se houver alteração do decreto vigente. Caso seja adotada esta modalidade, as novas regras serão definidas e publicadas na página do edital no site do IFC, devendo o candidato dispor de computador com acesso à internet, câmera e microfone, além de outros materiais que julgar necessários para a apresentação.
-
-6 - DA PROVA DE TÍTULOS (ANÁLISE DE CURRÍCULO)
-
-<!-- image -->
-
-<!-- image -->
-
-## Secretaria de Educação Profissional e Tecnológica
-
-## Ministério da Educação Instituto Federal Catarinense - Reitoria
-
-- 6.1 - No ato da inscrição os candidatos deverão enviar por e-mail cópia do Currículo Lattes, acompanhado da documentação comprobatória passível de pontuação que, posteriormente, serão encaminhados à Comissão Avaliadora.
-- 6.2 - Para a Prova de Títulos (análise de currículo) serão atribuídos os pontos, conforme o formulário constante no anexo IV deste edital.
-- 6.3 - Para fins de pontuação na Prova de Títulos, o Diploma poderá ser substituído por Declaração da Universidade onde conste que o candidato concluiu todos os requisitos para obtenção do título, estando somente no aguardo da confecção do Diploma.
-
-## 7 - DA NOTA FINAL
-
-- 7.1 - Para o cálculo da nota final, será realizada uma média ponderada dos critérios a seguir com os respectivos pesos:
-- a) Prova Didática: (70%)
-- b) Prova de Títulos (Análise de Currículo): (30%)
-- 7.2 - Será considerado classificado o candidato que obtiver nota final igual ou superior
-- a 5 (cinco), ou seja, que corresponda ao percentual mínimo de 50% (cinquenta por cento) do valor total da nota máxima passível de ser obtida.
-
-## 8 - DA DIVULGAÇÃO DOS RESULTADOS
-
-- 8.1 - O resultado do processo seletivo será divulgado conforme cronograma no Anexo I deste edital, no endereço eletrônico citado no item 2.9.
-
-## 9 - DOS PEDIDOS DE REVISÃO E RECURSO
-
-- 9.1 - Será admitido pedido de revisão quanto:
-
-<!-- image -->
-
-Rua das Missões, 100 - Ponta Aguda Blumenau/SC - CEP: 89.051-000 (47) 3331-7800 / ifc@ifc.edu.br
 
 <!-- image -->
 
@@ -243,9 +109,121 @@ Rua das Missões, 100 - Ponta Aguda Blumenau/SC - CEP: 89.051-000 (47) 3331-7800
 
 ## Instituto Federal Catarinense - Reitoria
 
+- 2.7 - Não serão aceitas inscrições por correspondência ou fax.
+- 2.8 - O IFC não se responsabiliza por solicitações de inscrição via Internet não recebida por motivos de ordem técnica dos computadores, falhas de comunicação, congestionamento das linhas de comunicação, bem como outros fatores de ordem técnica que impossibilitem a transferência de dados.
+- 2.9 - Encerradas as inscrições, a Comissão Avaliadora do Campus apreciará e publicará na home page do Campus wwwaraquari.ifc.edu.br a lista das inscrições homologadas.
+- 2.10 -A prova didática será presencial. Todavia, caso venham a ser suspensas as atividades presenciais do Instituto Federal Catarinense, por motivo de força maior, a prova didática poderá ocorrer de forma on-line. Caso seja adotada esta modalidade, as novas regras serão definidas e publicadas na página do edital no site do IFC.
+- 2.10.1 Ao se inscrever no presente Edital o candidato fica ciente de que em caso de alteração na modalidade de prova para on-line, deverá dispor de computador com acesso à internet, câmera e microfone.
+- 2.11 A inscrição do candidato implicará conhecimento e aceitação tácita das condições estabelecidas no presente edital, da lei 8.745 de 09.12.1993, bem como das instruções específicas para o cargo, das quais não poderá alegar desconhecimento.
+
+## 2.12 Da inscrição dos candidatos autodeclarados negros(pretos ou pardos) na condição de cotistas.
+
+- 2.12.1 Será constituída comissão específica para realização do procedimento de heteroidentificação dos candidatos inscritos na condição de cotistas autodeclarados pretos ou pardos.
+- 2.12.2 O procedimento de heteroidentificação avaliará as características fenotípicas do
+
+<!-- image -->
+
+<!-- image -->
+
+## Secretaria de Educação Profissional e Tecnológica
+
+## Ministério da Educação Instituto Federal Catarinense - Reitoria
+
+candidato e não a sua ancestralidade.
+
+- 2.12.3 A comissão de heteroidentificação verificará se o fenótipo(aspectos físicos) do candidato o caracterizam como pertencente ao grupo racial negro (preto ou pardo).
+- 2.12.4 As orientações para realização do procedimento de heteroidentificação estarão contidas em convocação a ser publicada conforme as datas do cronograma deste edital.
+- 2.12.5 O procedimento de heteroidentificação será realizado por meio de videoconferência, sendo de responsabilidade do candidato dispor dos recursos tecnológicos (computador ou celular, internet, webcam) para participação no procedimento.
+- 2.12.6 O candidato(a) convocado que não realizar o procedimento de heteroidentificação terá sua autodeclaração étnico-racial indeferida. O candidato não será eliminado do processo e continuará concorrendo pela ampla concorrência.
+- 2.12.7 Caberá recurso ao candidato cuja autodeclaração étnico-racial seja indeferida. Não caberá recurso quando o indeferimento ocorrer conforme previsto no item 2.12.6.
+
+## 3 - DA COMISSÃO AVALIADORA
+
+- 3.1 - O processo seletivo será conduzido por Comissão Avaliadora composta por 2 (dois) professores vinculados à área do Conhecimento objeto da Seleção Pública e 1 (um) Pedagogo ou 1 (um) Técnico em Assuntos Educacionais, lotados no IFC Campus Araquari, designados por portaria do Diretor-Geral do Campus, sendo um deles nomeado como presidente da referida comissão.
+
+## 4 - DA SELEÇÃO
+
+- 4.1 - O processo seletivo simplificado será realizado em 02 (duas) etapas, constituídas
+
+<!-- image -->
+
+<!-- image -->
+
+## Secretaria de Educação Profissional e Tecnológica
+
+de:
+
+- a) Prova Didática
+- b) Prova de Títulos (Análise do Currículo);
+
+## 5 - DA PROVA DIDÁTICA
+
+- 5.1 - A Prova Didática versará sobre um ponto sorteado pela Comissão Avaliadora do processo, conforme cronograma do Anexo I, dentre os temas abaixo, relacionados a área deste processo seletivo:
+- 1. Teorias sociológicas clássicas: os métodos de análise de Émile Durkheim, Max Weber e Karl Marx.
+- 2. Desigualdade sociais na sociedade contemporânea.
+- 3. Cultura e cultura brasileira.
+- 4. Estado, cidadania e movimentos sociais.
+- 5. Reformas educacionais na sociedade contemporânea.
+- 5.2 - O horário das provas didáticas, bem como a ordem de apresentação dos candidatos serão sorteados junto com o ponto.
+- 5.3 -A Prova Didática será realizada em sessão restrita à Comissão Avaliadora, e consistirá de uma aula com duração de 20 (vinte) a 25 (vinte cinco) minutos. O candidato deverá chegar com antecedência ao local da prova didática 15 (quinze) minutos antes do horário previsto, conforme o sorteio realizado anteriormente.
+- 5.4 -Os critérios para o julgamento da prova didática deverão tomar por base o domínio na área de conhecimento e a eficiência no processo de ensino-aprendizagem, segundo os critérios constantes no anexo III.
+
+<!-- image -->
+
+## Ministério da Educação Instituto Federal Catarinense - Reitoria
+
+<!-- image -->
+
+## Secretaria de Educação Profissional e Tecnológica
+
+## Ministério da Educação Instituto Federal Catarinense - Reitoria
+
+- 5.5 -Serão convocados a participar da Prova Didática todos os candidatos com inscrição deferida.
+- 5.6 -Os candidatos, ao se apresentarem para a prova didática, no local e horário estabelecidos no cronograma do Anexo I, deverão entregar à Comissão Avaliadora, no início da prova didática, um plano de aula em 03 (três) vias, devidamente assinadas, não sendo disponibilizado nenhum modelo de plano de aula.
+- 5.7 - À Prova Didática serão atribuídos os pontos, conforme o formulário constante no anexo III deste edital, sendo a nota desta prova expressa com 2 (duas) casas decimais, com intervalo de 0,25 (zero vírgula vinte cinco). A avaliação deverá ser realizada individualmente por cada membro da comissão avaliadora, utilizando-se ao final a média das três avaliações para obtenção na pontuação final desta prova.
+- 5.8 - O IFC disponibilizará somente quadro branco e caneta para quadro branco para realização da prova didática.
+- 5.9 -A prova didática será realizada de forma PRESENCIAL, porém, com a possibilidade de sua alteração para realização de forma on-line, somente se houver alteração do decreto vigente. Caso seja adotada esta modalidade, as novas regras serão definidas e publicadas na página do edital no site do IFC, devendo o candidato dispor de computador com acesso à internet, câmera e microfone, além de outros materiais que julgar necessários para a apresentação.
+
+## 6 - DA PROVA DE TÍTULOS (ANÁLISE DE CURRÍCULO)
+
+- 6.1 -No ato da inscrição os candidatos deverão trazer cópia do Currículo Lattes, acompanhado da documentação comprobatória passível de pontuação que, posteriormente, serão encaminhados à Comissão Avaliadora. Esta documentação poderá ser devolvida ao candidato num momento posterior, caso requeira.
+- 6.2 - Para a Prova de Títulos (análise de currículo) serão atribuídos os pontos, conforme o formulário constante no anexo IV deste edital.
+
+<!-- image -->
+
+<!-- image -->
+
+## Secretaria de Educação Profissional e Tecnológica
+
+## Ministério da Educação Instituto Federal Catarinense - Reitoria
+
+- 6.3 - Para fins de pontuação na Prova de Títulos, o Diploma poderá ser substituído por Declaração da Universidade onde conste que o candidato concluiu todos os requisitos para obtenção do título, estando somente no aguardo da confecção do Diploma.
+
+## 7 - DA NOTA FINAL
+
+- 7.1 - Para o cálculo da nota final, será realizada uma média ponderada dos critérios a seguir com os respectivos pesos:
+- a) Prova Didática: (70%)
+- b) Prova de Títulos (Análise de Currículo): (30%)
+- 7.2 - Será considerado classificado o candidato que obtiver nota final igual ou superior a 5 (cinco).
+
+## 8 - DA DIVULGAÇÃO DOS RESULTADOS
+
+- 8.1 - O resultado do processo seletivo será divulgado conforme cronograma no Anexo I deste edital, no endereço eletrônico citado no item 2.9.
+
+## 9 - DOS PEDIDOS DE REVISÃO E RECURSO
+
+- 9.1 - Será admitido pedido de revisão quanto:
 - a. ao indeferimento de inscrição;
 - 9.2 - Será admitido pedido de recurso quanto ao resultado preliminar do concurso.
 - 9.3 - Os pedidos de revisão e de recurso deverão ser feitos em formulário próprio, conforme Anexo V. O candidato deverá preencher corretamente todos os campos do formulário, digitalizá-lo e enviá-lo dentro dos prazos estabelecidos neste Edital para o e-mail: cgp.araquari@ifc.edu.br, com o título 'RECURSO EDITAL XXX'., até às 18h.
+
+<!-- image -->
+
+<!-- image -->
+
+## Secretaria de Educação Profissional e Tecnológica
+
+## Ministério da Educação Instituto Federal Catarinense - Reitoria
 
 ## 10 - DA CONTRATAÇÃO:
 
@@ -255,21 +233,22 @@ Rua das Missões, 100 - Ponta Aguda Blumenau/SC - CEP: 89.051-000 (47) 3331-7800
 - 10.3.1 - No caso de professor substituto o contrato não poderá se estender por prazo superior ao fim do afastamento do ocupante titular do cargo.
 - 10.4 Poderá ocorrer alteração da jornada de trabalho do profissional a ser contratado ou no curso do contrato, conforme necessidade institucional.
 - 10.5 Os candidatos classificados no certame poderão ser contratados pelo IFC, inclusive para outros campi, no interesse da Administração, se no período de validade do Processo Seletivo houver falta de docente nas disciplinas/unidades curriculares constantes deste Edital, observada a legislação vigente.
-
-10.6 - São requisitos para a contratação:
-
-<!-- image -->
-
-<!-- image -->
-
-## Ministério da Educação
-
-## Secretaria de Educação Profissional e Tecnológica Instituto Federal Catarinense - Reitoria
-
+- 10.6 - São requisitos para a contratação:
 - a) Estar classificado em processo seletivo simplificado;
-- b) Ser brasileiro nato ou naturalizado ou, se de nacionalidade estrangeira, estar com situação regular no país, por intermédio de visto permanente ou temporário que o habilite, inclusive, a trabalhar no território nacional;
+- b) Ser brasileiro nato ou naturalizado ou, se de nacionalidade estrangeira, estar com situação regular no país, por intermédio de visto permanente que o habilite, inclusive, a trabalhar no território nacional;
 - c) Encontrar-se no pleno gozo de seus direitos civis e políticos;
 - d) Estar quite com as obrigações militares e eleitorais;
+
+<!-- image -->
+
+Rua das Missões, 100 - Ponta Aguda Blumenau/SC - CEP: 89.051-000 (47) 3331-7800 / ifc@ifc.edu.br
+
+<!-- image -->
+
+## Secretaria de Educação Profissional e Tecnológica
+
+## Ministério da Educação Instituto Federal Catarinense - Reitoria
+
 - e) Não ter sido contratado com fundamento na Lei nº 8.745/1993, nos últimos 24 meses, ressalvado o disposto em Lei;
 - f) Ser considerado APTO em todos os exames médicos pré-admissionais;
 - g) Apresentar outros documentos que vierem a ser exigidos.
@@ -280,7 +259,9 @@ Rua das Missões, 100 - Ponta Aguda Blumenau/SC - CEP: 89.051-000 (47) 3331-7800
 ## 11 - DAS PROIBIÇÕES
 
 - 11.1 -É proibida a contratação, nos termos da Lei nº 8.745/93, de servidores da Administração direta ou indireta da União, dos Estados, do Distrito Federal e dos Municípios, bem como de empregados ou servidores de suas subsidiárias e controladas.
-- 11.1.1 - Excetua-se do disposto item anterior, condicionada à formal comprovação da compatibilidade de horários, a contratação de professor substituto e professor
+- 11.1.1 - Excetua-se do disposto item anterior, condicionada à formal comprovação da compatibilidade de horários, a contratação de professor substituto e professor temporário, desde que o contratado não ocupe cargo efetivo integrante das carreiras de Magistério das Instituições Federais de Ensino.
+- 11.2 -É proibida a contratação de pessoas que já tenham sido contratadas com fundamento na Lei nº8.745/93, antes de decorridos 24 meses do encerramento de seu contrato anterior, ressalvado o disposto em Lei.
+- 11.3 - É proibida a contratação de servidor público federal que esteja usufruindo de licença incentivada sem remuneração, com fundamento no art. 10, inciso II, da Medida Provisória nº 2.174-28, de 24/08/2001.
 
 <!-- image -->
 
@@ -290,12 +271,6 @@ Rua das Missões, 100 - Ponta Aguda Blumenau/SC - CEP: 89.051-000 (47) 3331-7800
 
 ## Ministério da Educação Instituto Federal Catarinense - Reitoria
 
-## temporário, desde que o contratado não ocupe cargo efetivo integrante das carreiras de
-
-Magistério das Instituições Federais de Ensino.
-
-- 11.2 -É proibida a contratação de pessoas que já tenham sido contratadas com fundamento na Lei nº8.745/93, antes de decorridos 24 meses do encerramento de seu contrato anterior, ressalvado o disposto em Lei.
-- 11.3 - É proibida a contratação de servidor público federal que esteja usufruindo de licença incentivada sem remuneração, com fundamento no art. 10, inciso II, da Medida Provisória nº 2.174-28, de 24/08/2001.
 - 11.4. -Ressalvados os casos previstos na Constituição, é vedada a acumulação remunerada de cargos públicos. A proibição de acumular estende-se a cargos, empregos e funções em autarquias, fundações públicas, empresas públicas, sociedades de economia mista da União, do Distrito Federal, dos Estados, dos Territórios e dos Municípios. A acumulação de cargos, ainda que lícita, fica condicionada à comprovação da compatibilidade de horários.
 - 11.4.1 -Considera-se acumulação proibida a percepção de vencimento de cargo ou emprego público efetivo com proventos da inatividade, salvo quando os cargos de que decorram essas remunerações forem acumuláveis na atividade.
 - 11.5 - É proibida a participação de gerência ou administração de sociedade privada, personificada ou não personificada, exercer o comércio, exceto na qualidade de acionista, cotista ou comanditário. A vedação inclui o Microempreendedor Individual.
@@ -303,16 +278,6 @@ Magistério das Instituições Federais de Ensino.
 ## 12 - DO PRAZO DE VALIDADE DO PROCESSO SELETIVO SIMPLIFICADO
 
 - 12.1 - O prazo de validade do Processo Seletivo Simplificado será de 1 (um) ano, a contar da data da homologação do resultado final no Diário Oficial da União, podendo ser prorrogado por igual período, a pedido da Direção-Geral do Campus.
-
-<!-- image -->
-
-<!-- image -->
-
-## Ministério da Educação
-
-## Secretaria de Educação Profissional e Tecnológica
-
-## Instituto Federal Catarinense - Reitoria
 
 ## IARA MANTOANELLI
 
@@ -332,32 +297,26 @@ Pró-Reitora de Desenvolvimento, Inclusão, Diversidade e Assistência à Pessoa
 
 ## CRONOGRAMA
 
-|   ITEM | ATIVIDADE                                                                                              | PERÍODO                        |
-|--------|--------------------------------------------------------------------------------------------------------|--------------------------------|
-|    1   | Período de Inscrições                                                                                  | 16/08/2024 à 30/08/2024        |
-|    2   | Prazo limite de pagamento da Taxa de Inscrição                                                         | 30/08/2024                     |
-|    3   | Divulgação das inscrições homologadas                                                                  | 02/09/2024                     |
-|    4   | Período de pedido de revisão quanto a não confirmação da inscrição                                     | 03/09/2024                     |
-|    5   | Divulgação da decisão dos pedidos de revisão quanto a não confirmação da inscrição                     | 06/09/2024                     |
-|    5.1 | Envio dos formulários de inscrições de vagas reservadas para comissão de heteroidenticação             | 06/09/2024                     |
-|    6   | Sorteio do ponto da prova didática e da ordem de apresentação                                          | 06/09/2024                     |
-|    7   | Divulgação do ponto sorteado para a prova didática e da ordem de apresentação dos candidatos.          | 06/09/2024                     |
-|    8   | Divulgação do local e horário da prova didática.                                                       | 06/09/2024                     |
-|    9   | Data da Prova Didática e Prova de Títulos                                                              | 09/09/2024                     |
-|   10   | Divulgação do resultado preliminar do processo seletivo simplificado                                   | 10/09/2024                     |
-|   11   | Período de pedido de recurso do resultado preliminar do processo seletivo simplificado                 | 11/09/2024                     |
-|   12   | Divulgação da decisão dos pedidos de revisão do resultado preliminar do processo seletivo simplificado | 12/09/2024                     |
-|   13   | Divulgação do resultado final após recursos                                                            | 13/09/2024                     |
-|   14   | Convocação de candidatos para realização do procedimento de heteroidentificação                        | De 14/09/2024 a Até 23/09/2024 |
-|   15   | Homologação do resultado final do processo seletivo simplificado                                       | Até 30/09/2204                 |
-
-Obs. Caso haja prorrogação do prazo das inscrições, o cronograma constante neste
-
-anexo será reformulado/retificado e publicado novamente.
+|   ITEM | ATIVIDADE                                                                                              | PERÍODO                 |
+|--------|--------------------------------------------------------------------------------------------------------|-------------------------|
+|    1   | Período de Inscrições                                                                                  | 05/04/2024 a 16/04/2024 |
+|    2   | Prazo limite de pagamento da Taxa de Inscrição                                                         | 16/04/2024              |
+|    3   | Divulgação das inscrições homologadas                                                                  | 17/04/2024              |
+|    4   | Período de pedido de revisão quanto a não confirmação da inscrição                                     | 18/04/2024              |
+|    5   | Divulgação da decisão dos pedidos de revisão quanto a não confirmação da inscrição                     | 19/04/2024              |
+|    5.1 | Envio dos formulários de inscrições de vagas reservadas para comissão de heteroidenticação             | 19/04/2024              |
+|    6   | Sorteio do ponto da prova didática e da ordem de apresentação                                          | 19/04/2024              |
+|    7   | Divulgação do ponto sorteado para a prova didática e da ordem de apresentação dos candidatos.          | 19/04/2024              |
+|    8   | Divulgação do local e horário da prova didática.                                                       | 19/04/2024              |
+|    9   | Data da Prova Didática e Prova de Títulos                                                              | 22/04/2024              |
+|   10   | Divulgação do resultado preliminar do processo seletivo simplificado                                   | 23/04/2024              |
+|   11   | Período de pedido de recurso do resultado preliminar do processo seletivo simplificado                 | 24/04/2024 a 25/04/2024 |
+|   12   | Divulgação da decisão dos pedidos de revisão do resultado preliminar do processo seletivo simplificado | 26/04/2024              |
+|   13   | Divulgação do resultado final após recursos                                                            | 26/04/2024              |
+|   14   | Convocação de candidatos para realização do procedimento de heteroidentificação                        | Até 07/05/2024          |
+|   15   | Homologação do resultado final do processo seletivo simplificado                                       | Até 17/05/2024          |
 
 <!-- image -->
-
-Rua das Missões, 100 - Ponta Aguda Blumenau/SC - CEP: 89.051-000 (47) 3331-7800 / ifc@ifc.edu.br
 
 <!-- image -->
 
@@ -367,13 +326,13 @@ Rua das Missões, 100 - Ponta Aguda Blumenau/SC - CEP: 89.051-000 (47) 3331-7800
 
 ## Instituto Federal Catarinense - Reitoria
 
+Obs. Caso haja prorrogação do prazo das inscrições, o cronograma constante neste anexo será reformulado/retificado e publicado novamente.
+
 ## ANEXO II - do Edital nº
 
 ## FICHA DE INSCRIÇÃO
 
-## PROCESSO SELETIVO SIMPLIFICADO PARA CONTRATAÇÃO DE
-
-## PROFESSOR SUBSTITUTO / TEMPORÁRIO - EDITAL Nº \_\_\_\_\_\_\_/\_\_\_\_.
+## PROCESSO SELETIVO SIMPLIFICADO PARA CONTRATAÇÃO DE PROFESSOR SUBSTITUTO / TEMPORÁRIO - EDITAL Nº \_\_\_\_\_\_\_/\_\_\_\_.
 
 Nome:
 
@@ -419,16 +378,11 @@ Documentos Apresentados:
 
 - ( ) - Cópia da cédula de Identidade;
 - ( ) - Cópia do Currículo Lattes com comprovação da experiência profissional e docente e demais documentos passíveis de pontuação.
-
-( ) - Cópia do CPF;
-
-( ) - Cópia do Documento que comprove habilitação na área;
-
+- ( ) - Cópia do CPF;
+- ( ) - Cópia do Documento que comprove habilitação na área;
 - ( ) - Cópia da quitação de serviço Militar;
 - ( ) - Cópia do Comprovante de quitação com a Justiça Eleitoral;
 - ( ) - Comprovante do pagamento da Taxa de Inscrição.
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, \_\_\_\_\_ de \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ de \_\_\_\_\_\_\_\_\_\_\_\_.
 
 <!-- image -->
 
@@ -436,18 +390,22 @@ Rua das Missões, 100 - Ponta Aguda Blumenau/SC - CEP: 89.051-000 (47) 3331-7800
 
 <!-- image -->
 
-<!-- image -->
-
 ## Ministério da Educação
 
 ## Secretaria de Educação Profissional e Tecnológica
 
 ## Instituto Federal Catarinense - Reitoria
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, \_\_\_\_\_ de \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ de \_\_\_\_\_\_\_\_\_\_\_\_.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Assinatura Responsável pela Inscrição.
 
+●
+
+<!-- image -->
+
 <!-- image -->
 
 ## Ministério da Educação
@@ -456,9 +414,7 @@ Assinatura Responsável pela Inscrição.
 
 ## Instituto Federal Catarinense - Reitoria
 
-## ANEXO III - do Edital nº xxx/xxxx
-
-## CRITÉRIOS PARA AVALIAÇÃO DA PROVA DIDÁTICA
+## ANEXO III - do Edital nº xxx/xxxx ● CRITÉRIOS PARA AVALIAÇÃO DA PROVA DIDÁTICA
 
 ## NOMEDOCANDIDATO: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -511,23 +467,23 @@ OBS: A nota final desta prova será obtida pela soma dos pontos atribuídos indi
 
 ## Instituto Federal Catarinense - Reitoria
 
-## ANEXO IV - do Editalnº xxx/xxxx
+## ● ANEXO IV - do Editalnº xxx/xxxx
 
-## CRITÉRIO PARA AVALIAÇÃO DA PROVA DE TÍTULOS
+## ● CRITÉRIO PARA AVALIAÇÃO DA PROVA DE TÍTULOS
 
-## NOME DO CANDIDATO: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+NOME DO CANDIDATO: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-| Nº                                                                                                                                                           | TÍTULOS Pontuação referência         | Pontuação atribuída   |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------|-----------------------|
-| Graduação ou Licenciatura Plena, correlata com a área                                                                                                        | 70                                   | 01                    |
-| Adicional pelo grau de doutor ou livre docente, correlato com a área ou                                                                                      | 12                                   |                       |
-| Adicional pelo título de mestre correlato com a área ou                                                                                                      | 10                                   |                       |
-| 02 Adicional pelo título de especialização correlato com a área ou                                                                                           | 08                                   |                       |
-| Adicional pelo curso de Aperfeiçoamento correlato com a área (igual ou superior a 180                                                                        | 03                                   |                       |
-| Exercício de magistério                                                                                                                                      | 02 pontos/ano - Máximo 5 anos 0 - 10 | 03                    |
-| Experiência Técnico-profissionais correlatas com área                                                                                                        | 02 pontos/ano Máximo 5 anos 0 - 10   | 04                    |
-| Participação em atividades relevantes correlatas com a área, como: Cursos de capacitação, Seminários, Congressos, Elaboração e/ou Execução de Projetos, etc. | Até 05 pontos pelo conjunto          | 05                    |
-| TOTAL                                                                                                                                                        | TOTAL                                | TOTAL                 |
+| Nº                                                                                                                                                           | TÍTULOS Pontuação referência         | Pontuação atribuída   |    |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------|-----------------------|----|
+| Graduação ou Licenciatura Plena, correlata com a área                                                                                                        | 70                                   | 01                    |    |
+| Adicional pelo grau de doutor ou livre docente, correlato com a área ou                                                                                      | 12                                   | 03                    |    |
+| Adicional pelo título de mestre correlato com a área ou                                                                                                      | 10                                   | 03                    |    |
+| 02 Adicional pelo título de especialização correlato com a área ou                                                                                           | 08                                   | 03                    |    |
+| Adicional pelo curso de Aperfeiçoamento correlato com a área (igual ou superior a 180 horas)                                                                 | 03                                   | 03                    |    |
+| Exercício de magistério                                                                                                                                      | 02 pontos/ano - Máximo 5 anos 0 - 10 |                       |    |
+| Experiência Técnico-profissionais correlatas com área                                                                                                        | 02 pontos/ano Máximo 5 anos 0 - 10   | 04                    |    |
+| Participação em atividades relevantes correlatas com a área, como: Cursos de capacitação, Seminários, Congressos, Elaboração e/ou Execução de Projetos, etc. | Até 05 pontos pelo conjunto          | 05                    |    |
+| TOTAL                                                                                                                                                        | TOTAL                                | TOTAL                 |    |
 
 OBS: Os Títulos de Doutorado, Mestrado, Especialização e Aperfeiçoamento serão contados uma única vez, não serão contados cumulativamente e a pontuação será atribuída ao título de maior hierarquia.
 
