@@ -122,7 +122,7 @@ Parágrafo Único - A ausência de candidatos não impedirá a conferência da u
 - III. Lavrar a ata, em formulário específico.
 
 ## DA APURAÇÃO DOS RESULTADOS
-
+03
 Art. 27º Encerrado o processo de votação, imediatamente será constituída a mesa apuradora composta pelos membros da Comissão Eleitoral.
 
 Parágrafo Único -Junto à mesa apuradora, somente poderão permanecer os candidatos.

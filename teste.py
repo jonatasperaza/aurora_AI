@@ -21,7 +21,7 @@ def scrape_editais_araquari():
     Retorna:
         Uma lista de dicionários com os dados de cada edital (título, link, data e resumo).
     """
-    base_url = "https://editais.ifc.edu.br/category/campus-araquari/"
+    base_url = "https://editais.ifc.edu.br/"
     editais = []
     
     # Utiliza uma sessão para reaproveitar conexões
